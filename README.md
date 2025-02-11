@@ -22,7 +22,7 @@ The tennis game is built using C#, ASP.NET Core, HTML/CSS, and MudBlazor compone
 ## Live Demo
 
 You can view my portfolio and play the game by visiting the live demo at:  
-[Portfolio Live Demo](#khristossharp.github.io)
+[Portfolio Live Demo](https://khristossharp.github.io/)
 
 *Note: This project is hosted and cannot be run locally as it was published directly from the Blazor app.*
 
@@ -31,7 +31,7 @@ You can view my portfolio and play the game by visiting the live demo at:
 - **Blazor**: For building interactive web applications.
 - **ASP.NET Core**: The backend framework powering the app.
 - **MudBlazor**: For providing a great set of UI components to enhance the frontend experience.
-MudBlazor is licensed under the MIT License. For more information, you can review the license [LICENSE](#https://github.com/MudBlazor/MudBlazor/blob/dev/LICENSE).
+MudBlazor is licensed under the MIT License. For more information, you can review the license [LICENSE](https://github.com/MudBlazor/MudBlazor/blob/dev/LICENSE/)
 
 
 ## Acknowledgments
