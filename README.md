@@ -26,6 +26,10 @@ You can view my portfolio and play the game by visiting the live demo at:
 
 *Note: This project is hosted and cannot be run locally as it was published directly from the Blazor app.*
 
+## Source Code Reference
+
+For the full Blazor project, please visit the [Blazor Project Repository](https://github.com/khristossharp/Blazor-Portfolio)
+
 ## Technologies Used
 
 - **Blazor**: For building interactive web applications.
