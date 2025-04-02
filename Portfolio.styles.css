@@ -177,14 +177,11 @@ main[b-xn2l5aia1e] {
 
 
 [b-v9rf77xbvc] .background-style-component {
-    background-color: #e5e5f7;
-    opacity: 1;
-    background-image: radial-gradient(#A0C878 1.35px, #e5e5f7 1.35px);
-    background-size: 27px 27px;
+    background: linear-gradient(to right, rgba(235,243,246,1), rgba(111,158,237,1));
 }
 
 [b-v9rf77xbvc] .nav-button-style {
-    margin: 0 130px 0 130px;
+    margin: 0 30px 0 30px;
     color: #143D60 !important;
     font-family: Montserrat !important;
     font-weight: bold !important;
@@ -192,45 +189,28 @@ main[b-xn2l5aia1e] {
 }
 
 [b-v9rf77xbvc] .nav-bar-position {
-    position: fixed;
+    position: absolute;
     top: 0;
-    right: 0;
-    width: 125vh;
+    right: 10px;
+    width:61%;
+    overflow-x: auto;
+   align-items: center;
+   margin-top: 10px;
 }
 
-
-[b-v9rf77xbvc] .context-text {
-    height: 100vh;
-    position: fixed;
-    left: 44%;
-    top: 12%;
-    width: 55%;
+[b-v9rf77xbvc] .profile-section {
+    float: left;
+    width: 40%;
 }
 
-
-
-[b-v9rf77xbvc] .centered {
-    position: fixed;
-    top: 50%; /* Center vertically */
-    left: 50%; /* Center horizontally */
-    transform: translate(-50%, -50%);
-    transition: all 1s ease; /* Smooth transition for animations */
+[b-v9rf77xbvc] .about-section {
+   
+    width: 60%;
+    position: absolute;
+    top: 114px;
+    right: 10px;
 }
-
-
-
-[b-v9rf77xbvc] .page-context {
-    position: fixed; 
-    top: 0;
-    right: 0;
-    height: 100vh;
-    width: 60vw;
-    overflow: auto;
     
-}
-
-
-
 [b-v9rf77xbvc] .mud-tabs-tabbar {
     background-color: transparent;
 }
